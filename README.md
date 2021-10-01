@@ -1,5 +1,6 @@
 # Modul-18
-Final test project for SF-QAP
+Телеграм-бот для конвертации валют
+Имя в telegram @RodinaTata_CryptoBot
 
 Задание 18.6.2
 
